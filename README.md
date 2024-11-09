@@ -27,19 +27,28 @@ Los experimentos incluyen trayectorias variadas para analizar el comportamiento 
 - **Trayectorias circulares y ovaladas:** Evalúan la capacidad de los robots para coordinarse en curvas y mantener la distancia de equilibrio.
 - **Circuito vehicular:** Simulación de tráfico en un circuito más complejo que replica condiciones de tráfico en carretera.
 ![TRAYECTORIA_RECTA](https://github.com/user-attachments/assets/2a177d46-9ca8-4918-bc1f-22ec22eca21a)
+
 ![TRAYECTORIA_CIRCULAR](https://github.com/user-attachments/assets/c75d875a-bbcd-4cb2-9339-966e13e47527)
+
 ![TRAYECTORIA_OVALADA](https://github.com/user-attachments/assets/728ef2d5-e5a2-4b05-92d9-60ad53f45ff1)
+
 ![CIRCUITO_PRUEBAS_ROBOTAT](https://github.com/user-attachments/assets/6b55e95c-4d61-4213-b2f2-d212d8dc666b)
 
 ## Plataforma Robotat
 
 **Robotat** es una plataforma de pruebas ubicada en la Universidad del Valle de Guatemala. Está equipada con un sistema de captura de movimiento, permitiendo la experimentación con robots en un espacio controlado de 3x5 metros. Robotat fue esencial para validar el algoritmo en condiciones físicas y para ajustar el comportamiento de los robots en tiempo real.
+![ROBOTAT1](https://github.com/user-attachments/assets/8b24669c-1fb8-4527-93c6-045f48974767)
+
 
 ## Programas Utilizados
 
 - **Webots:** Utilizado para las simulaciones de las trayectorias y para evaluar el algoritmo de Lennard-Jones en entornos virtuales. Webots permite la captura de datos de movimiento y la replicación del entorno Robotat en un simulador.
+![WEBOTS_TRAYECTORIA_RECTA_3](https://github.com/user-attachments/assets/21f78a15-6900-491d-b9fd-05b8622f7940)
+
 - **MATLAB:** Se utilizo como herramienta de cálculo y análisis para generar codigo, asi como optimizar y ajustar los parámetros del potencial de Lennard-Jones en el algoritmo.  .
-  
+
+  ![VAL_SIM_TJ_2](https://github.com/user-attachments/assets/1b471bca-2091-44f1-b569-3b867c261b16)  ![VAL_SIM_DM_3D_1](https://github.com/user-attachments/assets/69f9c134-0d5a-4cc4-9923-f3f435c2c5e3)
+
 ## Robot Pololu 3pi
 
 Para las pruebas físicas, se utilizan robots móviles **Pololu 3pi**. Estos robots son ideales para simular vehículos en un entorno de tráfico controlado, gracias a su capacidad de movimiento rápido y estable, además de sus sensores de línea que facilitan la detección de trayectorias y de obstáculos.
