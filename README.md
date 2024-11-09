@@ -1,9 +1,5 @@
-# Validación de algoritmos de física granular con énfasis en el estudio y análisis del tránsito fantasma en entornos reales a escala
+# Validación de algoritmos de física granular con énfasis en el estudio y análisis del tránsito fantasma 👻 en entornos reales a escala
 
-**Autor:** Brayan Gabriel Girón García  
-**Institución:** Universidad del Valle de Guatemala  
-**Facultad:** Ingeniería  
-**Fecha:** 2024  
 
 ## Descripción del Proyecto
 
@@ -30,6 +26,10 @@ Los experimentos incluyen trayectorias variadas para analizar el comportamiento 
 - **Trayectorias rectas:** Simulan vehículos avanzando en línea.
 - **Trayectorias circulares y ovaladas:** Evalúan la capacidad de los robots para coordinarse en curvas y mantener la distancia de equilibrio.
 - **Circuito vehicular:** Simulación de tráfico en un circuito más complejo que replica condiciones de tráfico en carretera.
+![TRAYECTORIA_RECTA](https://github.com/user-attachments/assets/2a177d46-9ca8-4918-bc1f-22ec22eca21a)
+![TRAYECTORIA_CIRCULAR](https://github.com/user-attachments/assets/c75d875a-bbcd-4cb2-9339-966e13e47527)
+![TRAYECTORIA_OVALADA](https://github.com/user-attachments/assets/728ef2d5-e5a2-4b05-92d9-60ad53f45ff1)
+![CIRCUITO_PRUEBAS_ROBOTAT](https://github.com/user-attachments/assets/6b55e95c-4d61-4213-b2f2-d212d8dc666b)
 
 ## Plataforma Robotat
 
