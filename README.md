@@ -46,8 +46,7 @@ Los experimentos incluyen trayectorias variadas para analizar el comportamiento 
 ![WEBOTS_TRAYECTORIA_RECTA_3](https://github.com/user-attachments/assets/21f78a15-6900-491d-b9fd-05b8622f7940)
 
 - **MATLAB:** Se utilizo como herramienta de cálculo y análisis para generar codigo, asi como optimizar y ajustar los parámetros del potencial de Lennard-Jones en el algoritmo.  .
-
-  ![VAL_SIM_TJ_2](https://github.com/user-attachments/assets/1b471bca-2091-44f1-b569-3b867c261b16)  ![VAL_SIM_DM_3D_1](https://github.com/user-attachments/assets/69f9c134-0d5a-4cc4-9923-f3f435c2c5e3)
+  ![VAL_SIM_TJ_2](https://github.com/user-attachments/assets/1b471bca-2091-44f1-b569-3b867c261b16)  
 
 ## Robot Pololu 3pi
 
