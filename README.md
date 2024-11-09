@@ -54,6 +54,7 @@ Los experimentos incluyen trayectorias variadas para analizar el comportamiento 
 Para las pruebas físicas, se utilizan robots móviles **Pololu 3pi**. Estos robots son ideales para simular vehículos en un entorno de tráfico controlado, gracias a su capacidad de movimiento rápido y estable, además de sus sensores de línea que facilitan la detección de trayectorias y de obstáculos.
 
 El Pololu 3pi+ 32U4 es un robot móvil de alto rendimiento diseñado para proyectos de robótica educativa y de investigación. Basado en el microcontrolador ATmega32U4 compatible con Arduino, el 3pi+ 32U4 incorpora sensores avanzados, como encoders duales para control de velocidad y posición, sensores de línea, sensores de choque frontales y una IMU de 9 ejes (acelerómetro, giroscopio y magnetómetro). Su tamaño compacto, que cabe en la palma de la mano, lo hace ideal para tareas de seguimiento de líneas, laberintos y pruebas de navegación en entornos pequeños, además de ser fácil de programar y personalizar para diversas aplicaciones robóticas​
+![ROBOTAT1](https://github.com/user-attachments/assets/8b24669c-1fb8-4527-93c6-045f48974767)
 
 
 ## Resultados
