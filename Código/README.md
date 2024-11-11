@@ -1,6 +1,5 @@
 
 # Carpeta de Código
----
 
 Esta carpeta contiene los archivos y scripts necesarios para la simulación y experimentación fenómeno de tránsito fantasma con partículas y robots móviles. Está organizada en tres subcarpetas principales, cada una enfocada en diferentes etapas de prueba y simulación del proyecto:
 
@@ -9,3 +8,4 @@ Esta carpeta contiene los archivos y scripts necesarios para la simulación y ex
 - **SIMULACION ROBOTS - WEBOTS**: En esta carpeta podemos encontrar archivos de simulación en el software Webots, donde se modela el comportamiento de los robots en un entorno virtual, incluyendo trayectorias, control de fuerzas y diferentes escenarios de prueba.
 
 - **PRUEBAS FISICAS**: Contiene los códigos utilizados en experimentos con robots reales en la plataforma de pruebas Robotat. Aquí se encuentran los archivos de control y ajustes específicos para las pruebas físicas así como la conexión y comunicación con la plataforma robotat.
+---
