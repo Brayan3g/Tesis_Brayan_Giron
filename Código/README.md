@@ -1,5 +1,5 @@
 
-# Carpeta de Código
+# Carpeta de Código 💻
 
 Esta carpeta contiene los archivos y scripts necesarios para la simulación y experimentación fenómeno de tránsito fantasma con partículas y robots móviles. Está organizada en tres subcarpetas principales, cada una enfocada en diferentes etapas de prueba y simulación del proyecto:
 
